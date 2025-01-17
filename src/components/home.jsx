@@ -1,5 +1,4 @@
 import Container from "react-bootstrap/Container";
-//import Image1 from '../assets/image1.jpeg'
 import Image2 from '../assets/image2.jpeg'
 function Home() {
   return (

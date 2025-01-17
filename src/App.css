@@ -2,3 +2,20 @@
     color: azure;
     
 }
+.list-content a{
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 21px;
+}
+.list-content a :hover{
+    color: azure;
+}
+
+.head{
+    font-size: 15px;
+}
+.content{
+    font-size: 12px;
+    line-height: 0%;
+}
